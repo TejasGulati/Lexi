@@ -1,4 +1,4 @@
-# Lexi# Lexi Legal Assistant - Frontend Interface
+# Lexi Legal Assistant - Frontend Interface
 
 A minimal legal assistant interface that provides AI-powered legal research with clickable citations to PDF documents.
 
